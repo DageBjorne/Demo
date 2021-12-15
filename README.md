@@ -1,2 +1,2 @@
 # Demo
-FirstDraft
+My first small project in GitHub
